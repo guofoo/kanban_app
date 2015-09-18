@@ -1,7 +1,7 @@
 import React from 'react';
 import Note from './Note.jsx';
 
-	export default class Notes extends React.Component {
+export default class Notes extends React.Component {
   constructor(props) {
     super(props);
 
